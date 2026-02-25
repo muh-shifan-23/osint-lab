@@ -146,7 +146,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - 📫 Issues: [GitHub Issues](https://github.com/muh-shifan-2003/osint-lab/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/muh-shifan-2003/osint-lab/discussions)
-- 📧 Email: your.email@example.com
+- 📧 Email: mammashifan19@gmail.com
 
 ## ⚠️ Disclaimer
 
